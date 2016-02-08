@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Reborn Design]]></title>
         <description><![CDATA[Reborn Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reborn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 21:58:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 21:41:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reborn/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ad94cd1-2e50-4c96-9e60-8b0fc108bbf0.jpg">]]></description>
+            <link>https://thegrid.ai/reborn/be1cf002-f2cb-4356-ba10-a41dac8126d0/index.html</link>
+            <guid isPermaLink="false">be1cf002-f2cb-4356-ba10-a41dac8126d0</guid>
+            <pubDate>Mon, 08 Feb 2016 21:40:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/619f57ab-c037-4460-b2d8-666b349951db.png">]]></description>
-            <link>undefined8a19f2dd-25a3-4733-a596-cbb039cf1355/index.html</link>
+            <link>https://thegrid.ai/reborn/8a19f2dd-25a3-4733-a596-cbb039cf1355/index.html</link>
             <guid isPermaLink="false">8a19f2dd-25a3-4733-a596-cbb039cf1355</guid>
             <pubDate>Fri, 29 Jan 2016 21:57:52 GMT</pubDate>
         </item>
